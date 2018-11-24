@@ -34,7 +34,7 @@
 	3. Temporizadores en ADA
 	4. Temporización en POSIX 1003.1a
 	5. Temporización en POSIX 1003.1b
-### Memoria COmpartida
+### Memoria Compartida
 	1. Sincronización
 		- Espera activa
 		- Semáforos
