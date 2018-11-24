@@ -1,6 +1,6 @@
-#CURSO DE GNU/LINUX EN C
+# CURSO DE GNU/LINUX EN C
 
-##Temas:
+## Temas:
 1. Sistemas operativos en tiempo real
 	1.1 Introducción
 	1.2 Clasificación
